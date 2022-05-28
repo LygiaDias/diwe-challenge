@@ -1,6 +1,6 @@
 # diwe-react-challenge
 
-Boas vindas ao repositóriodo Diew-React-Challenge! A aplicação consiste em uma plataforma para gerenciar contatos. Depois de logado, o usuário será capaz de ver os contatos já registrados, além de poder criar , editar e deletar novos contatos.  A aplicação foi desenvolvida em react, utilizando de React Hooks para gerenciar estados. Os dados e requisições foram feitas através de uma API.
+Boas vindas ao repositório do Diew-React-Challenge! A aplicação consiste em uma plataforma para gerenciar contatos. Depois de logado, o usuário será capaz de ver os contatos já registrados, além de poder criar , editar e deletar novos contatos.  A aplicação foi desenvolvida em react, utilizando de React Hooks para gerenciar estados. Os dados e requisições foram feitas através de uma API.
 
 ### Tecnologias utilizadas
 
