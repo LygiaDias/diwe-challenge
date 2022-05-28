@@ -18,7 +18,7 @@ const UpdateContact = () => {
         { name, email, mobile },
         { headers: { authorization: `Bearer ${TOKEN}` } });
       // eslint-disable-next-line no-alert
-      alert('Contato criado com sucesso!');
+      alert('Contato atualizado com sucesso!');
     } catch (error) {
       console.log(error);
     }
